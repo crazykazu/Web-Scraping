@@ -25,3 +25,10 @@ and then it puts down the price of the stock aswell
 
 I am really starting to enjoy coding a lot more, hopefully tomorrow I can make it so it puts more data in like the
 how much the stock has gone up since a day, week, or month
+
+12/18/20
+Added the change in the day, 5 day, 1 month, 3 month, YTD change functions. I am started to really understand 
+web-scraping. Gonna start another topic next but I don't know yet.
+
+Gonna upload the excel file to show like what is on it and stuff like that. I do not own any of the stocks, these
+are just like examples to show how everything works
