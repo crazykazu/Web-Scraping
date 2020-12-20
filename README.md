@@ -32,3 +32,7 @@ web-scraping. Gonna start another topic next but I don't know yet.
 
 Gonna upload the excel file to show like what is on it and stuff like that. I do not own any of the stocks, these
 are just like examples to show how everything works
+
+12/19/20
+Just came back to it because I had an idea and wanted to learn. Started to make some sort of GUI and it works but 
+now I am trying to figure out how to clear it
