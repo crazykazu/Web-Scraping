@@ -87,17 +87,3 @@ def sending_info(list):
         except AttributeError:
             # Simple print statment saying that the ticker does not exist
             print(f"{ticker.upper()} does not exist")
-
-
-# Main function
-def main():
-    # Getting the list of tickers
-    main_list = getting_list()
-    # Sending all of those tickers to the print statment
-    sending_info(main_list)
-    # Just print done to indicate there are no more tickers to look up
-    print("Done")
-
-
-if __name__ == '__main__':
-    main()
