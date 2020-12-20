@@ -36,3 +36,9 @@ are just like examples to show how everything works
 12/19/20
 Just came back to it because I had an idea and wanted to learn. Started to make some sort of GUI and it works but 
 now I am trying to figure out how to clear it
+
+12/20/20 
+Could not find a way to like clear all of the text and stuff like that. Also added like the ticker symbol at the 
+so that you can keep track of which stock it is because it can become a little hard to read
+
+Overall this has been a pretty cool project and now I have to find something else to do
